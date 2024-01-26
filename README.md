@@ -27,8 +27,29 @@ Se você conhece alguma API pública e gratuita que não está listada aqui, fic
 2. Adicione a nova API ao arquivo README.md seguindo o formato estabelecido.
 3. Crie um pull request.
 
+## Recursos Externos
+
+### Gerenciamento de Arquivos
+- [file.io](https://www.file.io/?ref=devresourc.es) - Serviço para gerenciamento de arquivos.
+
+### Jogos
+- [Baralho de Cartas](https://deckofcardsapi.com/) - API para criar, embaralhar e lidar com cartas de baralho.
+
+### Câmbio
+- [fizer.io](https://fixer.io/) - API para informações de câmbio.
+
+### Notícias
+- [New York Times](https://developer.nytimes.com/) - API do New York Times para acesso a notícias.
+
+### Filmes
+- [OMDb](https://www.omdbapi.com/) - API para informações sobre filmes.
+Esta seção adiciona uma lista de recursos externos com seus respectivos links no seu 
+
 ## Agradecimentos
 
 Agradeço a todos que contribuíram para a expansão desta lista de APIs públicas e gratuitas. Juntos, podemos criar uma fonte valiosa de recursos para a comunidade de desenvolvedores.
 
 Happy coding!
+Almir Rivas
+🚀 🌱 🧠
+
